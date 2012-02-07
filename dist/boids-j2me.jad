@@ -1,0 +1,8 @@
+MIDlet-1: BoidsMIDlet,,com.beckproduct.boids.BoidsMIDlet
+MIDlet-Jar-Size: 10021
+MIDlet-Jar-URL: boids-j2me.jar
+MIDlet-Name: boids-j2me
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
